@@ -1,6 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
         Cow cow = new Cow();
         Duck donald = new Duck();
         Owl owl = new Owl();
